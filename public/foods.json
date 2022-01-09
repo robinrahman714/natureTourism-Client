@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Bahamas",
+    "description": "The Bahamas, known officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. It takes up 97% of the Lucayan Archipelago's land area and is home to 88% of the archipelago's population.",
+    "price": 8999,
+    "image": "https://i.ibb.co/rvprWjF/1.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 2,
+    "title": "Hawaii",
+    "description": "Hawaii is a state in the Western United States located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only state outside North America, the only state that is an archipelago, and the only state in the tropics",
+    "price": 9999,
+    "image": "https://i.ibb.co/fDpNj8r/The-beautiful-and-unique-landscape-of-coastal-Oahu-Hawaii-and-the-Kualoa-Ranch-where-Jurassic-Park-w.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 3,
+    "title": "Grand Canyon USA",
+    "description": "Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset. ",
+    "price": 10999,
+    "image": "https://i.ibb.co/NTzVhzs/3.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 4,
+    "title": "Bora Bora",
+    "description": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it’s known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts. At the island's center rises Mt. Otemanu, a 727m dormant volcano.",
+    "price": 2399,
+    "image": "https://i.ibb.co/VQwZxMg/4.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 5,
+    "title": "Maldives",
+    "description": "Maldives, officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland.",
+    "price": 399,
+    "image": "https://i.ibb.co/cXHBbQS/5.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 6,
+    "title": "Seychelles",
+    "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka.",
+    "price": 1999,
+    "image": "https://i.ibb.co/DDY27Tr/6.jpg",
+    "type": "OceanPackage"
+  }
+]

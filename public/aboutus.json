@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/sy8Ky3z/8.jpg",
+    "title": "Morocco",
+    "Sprice": "999",
+    "description": "Our Special anniversay package starts for morocco is only $999...Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/MNFM7hc/9.jpg",
+    "title": "Bali",
+    "Sprice": "399",
+    "description": "KBali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/dbzcXFY/10.jpg",
+    "title": "Phuket",
+    "Sprice": "1899",
+    "description": "Phuket City, on Phuket Island, is the capital of Thailand’s Phuket Province. In the Old Town, Thalang Road is lined with colorful 19th-century shophouses and Sino-Portuguese buildings. Built in 1903 by a wealthy tin merchant, Baan Chinpracha mansion has Italian floor tiles, shuttered windows and antique furniture."
+  }
+]
